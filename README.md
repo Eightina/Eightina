@@ -1,7 +1,7 @@
 ### 你好 ###
 #### 🔭 Hopeless Data Science
 #### ✈️ War Thunder 
-#### 🖥️ Learning Java
+#### 🖥️ Learning C++
 #### 🤖 Fan of Asimov
 <!--
 **Eightina/Eightina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
